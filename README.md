@@ -23,6 +23,7 @@ Upon analyzing all created visualizations there a few key points we can make to 
 - Commuters are heavily utilizing city bikes, as seen in our trip time Visualizations. 
 - Male and Female riders have similar trip durations and similar trip times
 - Trips usually fall under 30 minutes
+
 2 Additional Visualizations to make given our data:
 - Trip durations based on Age and Gender
 - Trip count based on month
