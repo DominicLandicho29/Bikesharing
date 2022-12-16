@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Overview
-- The purpose of this analysis was to practice using Tableau to create Data Visualitaions based on NYC city bike data
+- The purpose of this analysis was to practice using Tableau to create Data Visualitaions based on NYC citybike data
 ## Results
 ![image](https://user-images.githubusercontent.com/111463407/208194212-5fcc6925-d820-49d2-95c8-fe4adffc6db1.png)
 - The majority of trips last 5 minutes. Trips also usually fall under thirty minutes.
