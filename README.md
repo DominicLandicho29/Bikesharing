@@ -14,7 +14,17 @@
 ![image](https://user-images.githubusercontent.com/111463407/208195632-caf819ad-a7ca-4359-838b-d6b2db021b8e.png)
 - Male Subscribers account for the majority of the trip count. Female Subcribers follow.
 ![image](https://user-images.githubusercontent.com/111463407/208196712-fe4e47cf-7f36-4104-a101-d12d08e208ea.png)
-Peak hours are 8AM-10AM and 5PM-7PM
+- Peak hours are 8AM-10AM and 5PM-7PM
 ![image](https://user-images.githubusercontent.com/111463407/208196866-f6d65d89-d7fd-4520-ae71-edbe3901a66b.png)
 - Map of Starting Locations
 ## Summary 
+Upon analyzing all created visualizations there a few key points we can make to summarize:
+- Male Subscribers account for the large majority of riders.
+- Commuters are heavily utilizing city bikes, as seen in our trip time Visualizations. 
+- Male and Female riders have similar trip durations and similar trip times
+- Trips usually fall under 30 minutes
+2 Additional Visualizations to make given our data:
+- Trip durations based on Age and Gender
+- Trip count based on month
+## Link to Dashboard
+[link to dashboard](https://public.tableau.com/app/profile/dominic.landicho/viz/Module15Challenge_16712264973430/Module15Challenge)
